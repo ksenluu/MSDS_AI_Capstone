@@ -1,0 +1,242 @@
+	ucr_offense_name	ucr_offense_description	nibrs_crime	nibrs_crime_category	tag	
+71190	vandalism & crim mischief	animal cruelty	animal cruelty	animal offenses	animal offenses	
+4430	vandalism & crim mischief	criminal mischief/vandalism	animal cruelty	animal offenses	animal offenses	
+587			animal cruelty	animal offenses	animal offenses	
+2677	arson	arson	arson	arson	arson	
+29940	arson	arson			arson	
+1108			arson	arson	arson	
+43068	agg assault - fv	aggravated assault	agg assault - fv	assault offenses	assault 	
+226105	agg assault - fv	aggravated assault			assault 	
+795	agg assault - nfv	aggravated assault	agg assault - nfv	assault offenses	assault 	
+53679	agg assault - nfv	aggravated assault			assault 	
+224753	agg assault - nfv	aggravated assault	burglary-residence	burglary/ breaking & entering	assault 	
+89698	assault	aggravated assault	agg assault - nfv	assault offenses	assault 	
+80838	disorderly conduct	aggravated assault	agg assault - nfv	assault offenses	assault 	
+150	assault	assault	simple assault	assault offenses	assault 	
+1853	assault	assault	intimidation	assault offenses	assault 	
+5596	assault	assault	agg assault - nfv	assault offenses	assault 	
+99730	assault	assault			assault 	
+9353	disorderly conduct	assault	intimidation	assault offenses	assault 	
+170834	not coded	assault	intimidation	assault offenses	assault 	
+291762	terroristic threat	assault	intimidation	assault offenses	assault 	
+297	disorderly conduct	disorderly conduct	intimidation	assault offenses	assault 	
+211418	assault	other offenses	all other offenses	all other offenses	assault 	
+676	terroristic threat	other offenses	intimidation	assault offenses	assault 	
+5			agg assault - nfv	assault offenses	assault 	
+20			simple assault	assault offenses	assault 	
+23			intimidation	assault offenses	assault 	
+33427			agg assault - fv	assault offenses	assault 	
+120875			sexual assault with an object	"sex offenses, forcible"	assault 	
+33381	others	other offenses	extortion/ blackmail	extortion/ blackmail	blackmail	
+70199			extortion/ blackmail	extortion/ blackmail	blackmail	
+176531	others	bribery	bribery	bribery	bribery	
+32916	others	other offenses	bribery	bribery	bribery	
+75154			bribery	bribery	bribery	
+51	burglary-business	burglary	burglary-business	burglary/ breaking & entering	burglary	
+76685	burglary-business	burglary			burglary	
+265	burglary-residence	burglary	burglary-residence	burglary/ breaking & entering	burglary	
+62163	burglary-residence	burglary			burglary	
+59	robbery-business	robbery	robbery-business	robbery	burglary	
+84366	robbery-business	robbery			burglary	
+35693	robbery-individual	robbery	burglary-residence	burglary/ breaking & entering	burglary	
+65008	robbery-individual	robbery			burglary	
+2			burglary-business	burglary/ breaking & entering	burglary	
+7			burglary-residence	burglary/ breaking & entering	burglary	
+52			robbery-business	robbery	burglary	
+89863	disorderly conduct	disorderly conduct	all other offenses	all other offenses	disorderly conduct	
+7615	disorderly conduct	disorderly conduct	disorderly conduct	disorderly conduct	disorderly conduct	
+9006	disorderly conduct	disorderly conduct			disorderly conduct	
+30210	others	disorderly conduct	disorderly conduct	disorderly conduct	disorderly conduct	
+33314	others	other offenses	disorderly conduct	disorderly conduct	disorderly conduct	
+825			disorderly conduct	disorderly conduct	disorderly conduct	
+30053	assault	assault	dui	driving under the influence	driving under the influence	
+71000	assault	dwi	dui	driving under the influence	driving under the influence	
+2200	dwi	dwi	dui	driving under the influence	driving under the influence	
+8450	dwi	dwi			driving under the influence	
+241747	intoxication manslaughter	dwi	dui	driving under the influence	driving under the influence	
+544			dui	driving under the influence	driving under the influence	
+132565	narcotics & drugs	narcotics/drugs	counterfeiting / forgery	counterfeiting / forgery	drug violations	
+84898	narcotics & drugs	fraud	false pretenses/ swindle/ confidence game	fraud offenses	drug violations	
+312	narcotics & drugs	narcotics/drugs	drug/ narcotic violations	drug/ narcotic violations	drug violations	
+616851	narcotics & drugs	narcotics/drugs	drug equipment violations	drug/ narcotic violations	drug violations	
+129974	narcotics & drugs	narcotics/drugs	false pretenses/ swindle/ confidence game	fraud offenses	drug violations	
+10581	narcotics & drugs	narcotics/drugs			drug violations	
+35931	narcotics & drugs	other offenses	drug/ narcotic violations	drug/ narcotic violations	drug violations	
+36137	narcotics & drugs	other offenses	drug equipment violations	drug/ narcotic violations	drug violations	
+116527	others	other offenses	drug/ narcotic violations	drug/ narcotic violations	drug violations	
+14			drug/ narcotic violations	drug/ narcotic violations	drug violations	
+13540			drug equipment violations	drug/ narcotic violations	drug violations	
+1489	embezzlement	embezzlement	embezzelment	embezzelment	embezzelment	
+29712	embezzlement	embezzlement			embezzelment	
+741			embezzelment	embezzelment	embezzelment	
+540405	offense against child	assault			family offenses	
+31506	offense against child	assault	"family offenses, nonviolent"	"family offenses, nonviolent"	family offenses	
+4730	offense against child	child (offenses against)	"family offenses, nonviolent"	"family offenses, nonviolent"	family offenses	
+46630	offense against child	child (offenses against)			family offenses	
+94075	offense against child	family offenses nonviolent	"family offenses, nonviolent"	"family offenses, nonviolent"	family offenses	
+3879	offense against child	other offenses	"family offenses, nonviolent"	"family offenses, nonviolent"	family offenses	
+165311	offense against child	other offenses	all other offenses	all other offenses	family offenses	
+437			"family offenses, nonviolent"	"family offenses, nonviolent"	family offenses	
+126780	narcotics & drugs	forgery & counterfeit	counterfeiting / forgery	counterfeiting / forgery	fraud offenses	
+88525	fraud	forgery & counterfeiting	counterfeiting / forgery	counterfeiting / forgery	fraud offenses	
+5089	fraud	fraud	counterfeiting / forgery	counterfeiting / forgery	fraud offenses	
+30438	others	other offenses	counterfeiting / forgery	counterfeiting / forgery	fraud offenses	
+73			counterfeiting / forgery	counterfeiting / forgery	fraud offenses	
+93834	disorderly conduct	disorderly conduct	impersonation	fraud offenses	fraud offenses	
+27832	fail to id	fail to id	all other offenses	all other offenses	fraud offenses	
+129317	fail to id	fail to id			fraud offenses	
+3310	forge & counterfeit	forgery & counterfeit	counterfeiting / forgery	counterfeiting / forgery	fraud offenses	
+578910	forge & counterfeit	forgery & counterfeit	all other larceny	larceny/ theft offenses	fraud offenses	
+4844	forge & counterfeit	forgery & counterfeit			fraud offenses	
+132507	forgery & counterfeiting	forgery & counterfeit	counterfeiting / forgery	counterfeiting / forgery	fraud offenses	
+351837	forgery & counterfeiting	forgery & counterfeit			fraud offenses	
+86570	forge & counterfeit	forgery & counterfeiting	counterfeiting / forgery	counterfeiting / forgery	fraud offenses	
+44	fraud	fraud	false pretenses/ swindle/ confidence game	fraud offenses	fraud offenses	
+397	fraud	fraud	impersonation	fraud offenses	fraud offenses	
+2319	fraud	fraud	credit card/ atm fraud	fraud offenses	fraud offenses	
+109029	fraud	fraud	identity theft	fraud offenses	fraud offenses	
+552809	fraud	fraud	wire fraud	fraud offenses	fraud offenses	
+51647	fraud	fraud			fraud offenses	
+170824	others	fraud	hacking/computer invasion	fraud offenses	fraud offenses	
+174856	others	fraud	impersonation	fraud offenses	fraud offenses	
+25480	fail to id	other offenses	false pretenses/ swindle/ confidence game	fraud offenses	fraud offenses	
+165299	fraud	other offenses	all other offenses	all other offenses	fraud offenses	
+30580	others	other offenses	impersonation	fraud offenses	fraud offenses	
+340688	others	other offenses	false pretenses/ swindle/ confidence game	fraud offenses	fraud offenses	
+338259	fraud	traffic	false pretenses/ swindle/ confidence game	fraud offenses	fraud offenses	
+227700	fraud	traffic	miscellaneous	miscellaneous	fraud offenses	
+206051	fraud	traffic			fraud offenses	
+282			false pretenses/ swindle/ confidence game	fraud offenses	fraud offenses	
+787			credit card/ atm fraud	fraud offenses	fraud offenses	
+1222			impersonation	fraud offenses	fraud offenses	
+7974			wire fraud	fraud offenses	fraud offenses	
+9122			identity theft	fraud offenses	fraud offenses	
+131359			hacking/computer invasion	fraud offenses	fraud offenses	
+26414	gambling	gambling	operating/ promoting/ assisting gambling	gambling offenses	gambling offenses	
+203447	gambling	gambling			gambling offenses	
+94			operating/ promoting/ assisting gambling	gambling offenses	gambling offenses	
+45123			betting/ wagering	gambling offenses	gambling offenses	
+1382	murder	murder	murder & nonnegligent manslaughter	homicide offenses	homicide offenses	
+251461	murder	murder			homicide offenses	
+4048			murder & nonnegligent manslaughter	homicide offenses	homicide offenses	
+7582			justifiable homicide	homicide offenses	homicide offenses	
+68067			negligent manslaughter	homicide offenses	homicide offenses	
+132859	human trafficking	human trafficking	"human trafficking, commercial sex acts"	human trafficking	human trafficking	
+339275	prostitution	prostitution	"human trafficking, commercial sex acts"	human trafficking	human trafficking	
+182067			"human trafficking, commercial sex acts"	human trafficking	human trafficking	
+245070			"human trafficking, involuntary servitude"	human trafficking	human trafficking	
+25766	intoxication manslaughter	intoxication manslaughter	dui	driving under the influence	intoxication manslaughter	
+205869	intoxication manslaughter	intoxication manslaughter			intoxication manslaughter	
+133143	agg assault - nfv	kidnapping/abduction	kidnapping/ abduction	kidnapping/ abduction	kidnapping	
+70542	agg assault - nfv	kidnapping/abduction			kidnapping	
+79814	kidnapping	kidnapping/abduction	kidnapping/ abduction	kidnapping/ abduction	kidnapping	
+332042	kidnapping	other offenses	kidnapping/ abduction	kidnapping/ abduction	kidnapping	
+249655	kidnapping	other offenses			kidnapping	
+3581			kidnapping/ abduction	kidnapping/ abduction	kidnapping	
+333204	liquor offense	liquor	liquor law violations	liquor law violations	liquor law violations	
+207020	liquor offense	liquor			liquor law violations	
+74063			liquor law violations	liquor law violations	liquor law violations	
+13032	injured public	accidental injury	miscellaneous	miscellaneous	miscellaneous	
+44982	injured public	accidental injury			miscellaneous	
+488258	others	airplane			miscellaneous	
+63726	animal bite	animal bite	miscellaneous	miscellaneous	miscellaneous	
+233083	animal bite	animal bite			miscellaneous	
+66742	attempt suicide	attempted suicide	miscellaneous	miscellaneous	miscellaneous	
+319853	attempt suicide	attempted suicide			miscellaneous	
+36145	injured firearm	firearms accident	miscellaneous	miscellaneous	miscellaneous	
+208140	injured firearm	firearms accident			miscellaneous	
+2935	found	found property	miscellaneous	miscellaneous	miscellaneous	
+2722	found	found property			miscellaneous	
+37996	injured home	home accident	miscellaneous	miscellaneous	miscellaneous	
+201171	injured home	home accident			miscellaneous	
+6318	lost	lost property	miscellaneous	miscellaneous	miscellaneous	
+59147	lost	lost property			miscellaneous	
+88852	injured occupa	occupational accident	miscellaneous	miscellaneous	miscellaneous	
+183068	injured occupa	occupational accident			miscellaneous	
+191	criminal trespass	other offenses	trespass of real property	trespass of real property	miscellaneous	
+46484	criminal trespass	other offenses			miscellaneous	
+30161	escape	other offenses	all other offenses	all other offenses	miscellaneous	
+334976	escape	other offenses			miscellaneous	
+1840	evading	other offenses	all other offenses	all other offenses	miscellaneous	
+25877	evading	other offenses			miscellaneous	
+42642	not coded	other offenses	all other offenses	all other offenses	miscellaneous	
+165687	oranized crime	other offenses	all other offenses	all other offenses	miscellaneous	
+228646	oranized crime	other offenses			miscellaneous	
+41799	others	other offenses	miscellaneous	miscellaneous	miscellaneous	
+198	others	other offenses	all other offenses	all other offenses	miscellaneous	
+127286	others	other offenses			miscellaneous	
+10382	resist arrest	other offenses	all other offenses	all other offenses	miscellaneous	
+211215	resist arrest	other offenses			miscellaneous	
+86573	terroristic threat	other offenses	all other offenses	all other offenses	miscellaneous	
+14879	terroristic threat	other offenses			miscellaneous	
+2061	sudden death&found bodies	sudden death	miscellaneous	miscellaneous	miscellaneous	
+25546	sudden death&found bodies	sudden death			miscellaneous	
+79740	traffic fatality	traffic fatality	miscellaneous	miscellaneous	miscellaneous	
+3			miscellaneous	miscellaneous	miscellaneous	
+375			all other offenses	all other offenses	miscellaneous	 
+205172	accident mv	motor vehicle accident	all other offenses	all other offenses	motor vehicle accident	
+5239	accident mv	motor vehicle accident	traffic violation - hazardous	traffic violation - hazardous	motor vehicle accident	
+114562	accident mv	motor vehicle accident			motor vehicle accident	
+73116	motor vehicle accident	motor vehicle accident	traffic violation - hazardous	traffic violation - hazardous	motor vehicle accident	
+169927	motor vehicle accident	motor vehicle accident			motor vehicle accident	
+1	uumv	auto theft - uumv	uumv	motor vehicle theft	motor vehicle theft	
+12	uumv	auto theft - uumv			motor vehicle theft	
+112024	uumv	motor vehicle theft	uumv	motor vehicle theft	motor vehicle theft	
+54	theft/bmv	theft	theft of motor vehicle parts or accessories	larceny/ theft offenses	motor vehicle theft	
+158	theft/bmv	theft	theft from motor vehicle	larceny/ theft offenses	motor vehicle theft	
+3518	theft/bmv	theft	uumv	motor vehicle theft	motor vehicle theft	
+0			uumv	motor vehicle theft	motor vehicle theft	
+171596			peeping tom	peeping tom	peeping tom	
+516019	others	other offenses	pornography/ obscene material	pornography/ obscene material	pornography obscene material	
+171194	offense against child	pornography/obscene material	pornography/ obscene material	pornography/ obscene material	pornography obscene material	
+132808	offense against child	child (offenses against)	pornography/ obscene material	pornography/ obscene material	pornography obscene material	
+2811			pornography/ obscene material	pornography/ obscene material	pornography obscene material	
+617023	prostitution	prostitution			prostitution	
+23357	drunk & disorderly	drunk & disorderly	public intoxication	public intoxication	public intoxication	
+7840	drunk & disorderly	drunk & disorderly			public intoxication	
+460			public intoxication	public intoxication	public intoxication	
+360679	theft org retail	other offenses	stolen property offenses	stolen property offenses	theft	
+215826	theft org retail	other offenses			theft	
+199	robbery-individual	robbery	robbery-individual	robbery	theft	
+30	other thefts	theft	all other larceny	larceny/ theft offenses	theft	
+10378	other thefts	theft	purse-snatching	larceny/ theft offenses	theft	
+15778	other thefts	theft	theft of coin-operated machine or device	larceny/ theft offenses	theft	
+30350	other thefts	theft	pocket-picking	larceny/ theft offenses	theft	
+77331	other thefts	theft			theft	
+26166	theft/bmv	theft			theft	
+84	theft/shoplift	theft	shoplifting	larceny/ theft offenses	theft	
+24783	theft/shoplift	theft	all other larceny	larceny/ theft offenses	theft	
+72560	theft/shoplift	theft			theft	
+25			robbery-individual	robbery	theft	
+2844			stolen property offenses	stolen property offenses	theft	
+4			theft from motor vehicle	larceny/ theft offenses	theft	
+27			all other larceny	larceny/ theft offenses	theft	
+49			shoplifting	larceny/ theft offenses	theft	
+269			theft of motor vehicle parts or accessories	larceny/ theft offenses	theft	
+805			purse-snatching	larceny/ theft offenses	theft	
+1342			theft of coin-operated machine or device	larceny/ theft offenses	theft	
+1549			pocket-picking	larceny/ theft offenses	theft	
+26553			theft of building	larceny/ theft offenses	theft	
+85268	traffic violation	no ucr reportable offense	traffic violation - hazardous	traffic violation - hazardous	traffic violation	
+70307	traffic violation	no ucr reportable offense	traffic violation - non hazardous	traffic violation - non hazardous	traffic violation	
+206450	traffic violation	no ucr reportable offense			traffic violation	
+165031	traffic violation	other offenses	all other offenses	all other offenses	traffic violation	
+109717	not coded	traffic	traffic violation - non hazardous	traffic violation - non hazardous	traffic violation	
+93553	traffic violation	traffic	traffic violation - hazardous	traffic violation - hazardous	traffic violation	
+64694	traffic violation	traffic	traffic violation - non hazardous	traffic violation - non hazardous	traffic violation	
+204630	traffic violation	traffic			traffic violation	
+189453	traffic fatality	traffic fatality			traffic violation	
+2338			traffic violation - hazardous	traffic violation - hazardous	traffic violation	
+6757			traffic violation - non hazardous	traffic violation - non hazardous	traffic violation	
+8			trespass of real property	trespass of real property	miscellaneous	
+606639	assault	assault	destruction/ damage/ vandalism of property	destruction/ damage/ vandalism of property	vandalism	
+3481	vandalism & crim mischief	criminal mischief/vandalism	all other offenses	all other offenses	vandalism	
+162	vandalism & crim mischief	criminal mischief/vandalism	destruction/ damage/ vandalism of property	destruction/ damage/ vandalism of property	vandalism	
+28886	vandalism & crim mischief	criminal mischief/vandalism			vandalism	
+17			destruction/ damage/ vandalism of property	destruction/ damage/ vandalism of property	vandalism	
+27981	weapons	other offenses	weapon law violations	weapon law violations	weapon law violations	
+12169	agg assault - nfv	weapons	weapon law violations	weapon law violations	weapon law violations	
+28383	disorderly conduct	weapons	weapon law violations	weapon law violations	weapon law violations	
+8474	weapons	weapons	weapon law violations	weapon law violations	weapon law violations	
+210541	weapons	weapons			weapon law violations	
+75			weapon law violations	weapon law violations	weapon law violations	
